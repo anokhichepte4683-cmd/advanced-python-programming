@@ -1,0 +1,38 @@
+[
+    {
+        "RollNo": "29",
+        "Name": "Ali",
+        "Branch": "CSE",
+        "Batch": "A "
+    },
+    {
+        "RollNo": "30",
+        "Name": "Max",
+        "Branch": "CSE",
+        "Batch": "A"
+    },
+    {
+        "RollNo": "31",
+        "Name": "George",
+        "Branch": "IT",
+        "Batch": "B"
+    },
+    {
+        "RollNo": "66",
+        "Name": "Alan",
+        "Branch": "Computer",
+        "Batch": "C"
+    },
+    {
+        "RollNo": "22",
+        "Name": "Jake",
+        "Branch": "ENTC",
+        "Batch": "A "
+    },
+    {
+        "RollNo": "69",
+        "Name": "Nolan",
+        "Branch": "CSE",
+        "Batch": "C"
+    }
+]
